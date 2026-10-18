@@ -3,118 +3,52 @@
 
 # ⚡ LeetCode Solutions
 
-### Consistency • Logic • Problem Solving
+### My DSA Journey in C++
 
-<a href="https://leetcode.com/shahranansari/">
-  <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/shahranansari2008-rgb">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shahranansari/)
+[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)](https://github.com/shahranansari2008-rgb/LeetCode-Solutions)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shahranansari2008-rgb/LeetCode-Solutions)
 
-<br/>
-
-**My journey of mastering Data Structures & Algorithms, one problem at a time.**
+**Learn. Solve. Improve. Repeat.**
 
 </div>
 
 ---
 
-## 📊 My LeetCode Progress
+## 📊 My Progress
 
-<div align="center">
+<!-- LEETCODE-PROGRESS-START -->
 
-<img src="https://leetcard.jacoblin.cool/shahranansari?theme=dark&font=Baloo&ext=heatmap" width="100%" alt="LeetCode Stats" />
+This section is automatically updated by GitHub Actions.
 
-</div>
-
-### 🎯 Current Progress
-
-| Metric | Progress |
-|:---|:---|
-| Problems in this repository | **2** |
-| Language | C++ |
-| Current focus | Basics, Loops & Math |
-| Next milestone | 25 problems |
-| Long-term goal | Strong DSA for placements |
-
-> My goal is to understand every solution, improve my logic, and write efficient code.
+<!-- LEETCODE-PROGRESS-END -->
 
 ---
 
-## 🚀 Solved Problems
+## 🎯 My Goals
 
-| # | Problem | Topic | Solution |
-|:--:|:---|:---|:---:|
-| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | [💻 Code](./0009-palindrome-number/) |
-| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Math | [💻 Code](./1523-count-odd-numbers-in-an-interval-range/) |
-
----
-
-## 📈 Learning Roadmap
-
-- [x] C++ basics
-- [x] Loops and conditional statements
-- [x] Basic mathematical problems
-- [ ] Arrays and strings
-- [ ] Time and space complexity
-- [ ] Binary search and sorting
-- [ ] Recursion and backtracking
-- [ ] Linked lists, stacks and queues
-- [ ] Trees and graphs
-- [ ] Dynamic programming
-
----
-
-## 🔥 My Coding Rules
-
-- 🧠 Understand the problem before coding.
-- ✍️ Try solving it independently first.
-- ⚡ Learn time and space complexity.
-- 📚 Keep solutions organized by problem.
-- 📈 Improve consistently, one question at a time.
+- [x] Start solving LeetCode problems
+- [x] Practice C++ basics and loops
+- [ ] Master arrays and strings
+- [ ] Learn important DSA patterns
+- [ ] Improve time and space complexity
+- [ ] Prepare for product-based company interviews
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/C++-Programming-blue?style=flat-square&logo=cplusplus" />
-<img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=flat-square&logo=leetcode" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-red?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-<a href="https://github.com/shahranansari2008-rgb">
-<img src="https://img.shields.io/badge/GitHub-Shahran_Ansari-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://leetcode.com/shahranansari/">
-<img src="https://img.shields.io/badge/LeetCode-Shahran-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
 <div align="center">
 
-### 💡 Small Steps. Strong Logic. Big Goals.
+### 💡 One Problem at a Time
 
-*Every problem solved is a step forward.*
-
-⭐ If you find this repository helpful, consider giving it a star!
+*Consistency beats perfection.*
 
 </div>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [2652-sum-multiples](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2652-sum-multiples) |
-<!---LeetCode Topics End-->
