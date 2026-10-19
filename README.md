@@ -124,4 +124,5 @@ Welcome to my coding journey! This repository contains my solutions to LeetCode 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
