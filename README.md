@@ -117,3 +117,11 @@ Welcome to my coding journey! This repository contains my solutions to LeetCode 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:0f172a&height=100&section=footer" width="100%" />
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+<!---LeetCode Topics End-->
