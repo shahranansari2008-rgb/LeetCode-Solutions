@@ -166,3 +166,11 @@ New solutions are organized in their own problem folders, making the repository 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+<!---LeetCode Topics End-->
