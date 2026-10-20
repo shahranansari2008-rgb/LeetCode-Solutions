@@ -1,129 +1,168 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=LeetCode%20Solutions&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Think%20%7C%20Code%20%7C%20Improve&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=LeetCode%20Solutions&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learn%20%7C%20Solve%20%7C%20Improve&descAlignY=55&descSize=18" width="100%" />
 
-<a href="https://leetcode.com/shahranansari/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/shahranansari2008-rgb/LeetCode-Solutions">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+# Shahran Ansari
 
-<br/>
+### B.Tech CSE | Aspiring Software Engineer
 
-### 🚀 My Journey Towards Better Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-DSA-2C5364?style=for-the-badge" />
+</p>
 
-*Building strong DSA fundamentals, one problem at a time.*
+<p>
+  <a href="https://leetcode.com/u/shahranansari/">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-orange?style=flat-square&logo=leetcode" />
+  </a>
+  <a href="https://github.com/shahranansari2008-rgb">
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+*One problem at a time. One step closer to mastery.*
 
 </div>
 
 ---
 
-## ✨ About This Repository
+## About Me
 
-Welcome to my coding journey! This repository contains my solutions to LeetCode problems, mainly written in **C++**.
+Hi! I'm **Shahran Ansari**, a Computer Science Engineering student learning programming and Data Structures & Algorithms.
 
-🎯 My focus is on improving logical thinking, understanding algorithms, and preparing for technical interviews.
+I'm using LeetCode to strengthen my logical thinking, improve my coding skills, and prepare for software engineering placements.
 
-- 🧠 Learning Data Structures and Algorithms
-- 💻 Practicing problem-solving with C++
-- 📈 Tracking my progress consistently
-- ⚡ Improving code efficiency and logic
+- Learning DSA using **C++**
+- Practicing coding problems consistently
+- Improving problem-solving and debugging skills
+- Building projects and learning developer tools
+- Working toward a career in software engineering
 
 ---
 
-## 📊 Coding Dashboard
+## LeetCode Statistics
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/shahranansari?theme=dark&font=Baloo&ext=heatmap" width="100%" alt="LeetCode Statistics" />
+<a href="https://leetcode.com/u/shahranansari/">
+  <img src="https://leetcard.jacoblin.cool/shahranansari?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Statistics" width="100%" />
+</a>
 
 </div>
 
+> The statistics card depends on an external service. It may take time to refresh or may temporarily be unavailable.
+
+---
+
+## My LeetCode Solutions
+
+I organize my solutions by problem number and name so that each solution is easy to find.
+
 <!-- LEETCODE-PROGRESS-START -->
 
-## 🔥 Repository Progress
-
-> This section is maintained automatically by GitHub Actions.
-
-### 📚 Solved Problems
+**Problems in this repository: 6**
 
 | # | Problem | Topic | Solution |
 |---:|---|---|---|
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | [View Code](./0009-palindrome-number/) |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | Math | [View Code](./0263-ugly-number/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Math | [View Code](./1523-count-odd-numbers-in-an-interval-range/) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Math | [View Code](./2235-add-two-integers/) |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | Math | [View Code](./2469-convert-the-temperature/) |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | Math | [View Code](./2652-sum-multiples/) |
 
 <!-- LEETCODE-PROGRESS-END -->
 
 ---
 
-## 🗺️ My DSA Roadmap
+## DSA Learning Roadmap
+
+My learning roadmap as I progress from programming basics to advanced problem-solving.
 
 | Topic | Status |
 |---|---|
-| C++ Basics | 🟢 Learning |
-| Loops & Conditions | 🟢 Practiced |
-| Mathematical Problems | 🟢 Practicing |
-| Arrays & Strings | 🔜 Next |
-| Searching & Sorting | 🔒 Upcoming |
-| Recursion & Backtracking | 🔒 Upcoming |
-| Linked Lists, Stacks & Queues | 🔒 Upcoming |
-| Trees & Graphs | 🔒 Upcoming |
-| Dynamic Programming | 🔒 Upcoming |
+| C++ input/output and variables | 🟢 Learning |
+| Conditional statements | 🟢 Learning |
+| Basic mathematics problems | 🟢 Practicing |
+| Loops and number patterns | 📌 Next |
+| Arrays and strings | ⏳ Upcoming |
+| Searching and sorting | ⏳ Upcoming |
+| Time and space complexity | ⏳ Upcoming |
+| Recursion and backtracking | ⏳ Upcoming |
+| Linked lists, stacks and queues | ⏳ Upcoming |
+| Trees and graphs | ⏳ Upcoming |
+| Dynamic programming | ⏳ Upcoming |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" alt="C++, Git, GitHub and VS Code" />
 
 </div>
 
+| Tool | Purpose |
+|---|---|
+| C++ | Problem solving |
+| LeetCode | Coding practice |
+| Git | Version control |
+| GitHub | Storing and tracking solutions |
+| VS Code | Code editor |
+
 ---
 
-## 📌 My Coding Principles
+## My Coding Approach
 
 - Understand the problem before writing code.
-- Try solving it independently before checking solutions.
-- Learn from mistakes and improve my approach.
-- Focus on time and space complexity.
-- Stay consistent instead of chasing shortcuts.
+- Start with a simple solution.
+- Test edge cases and debug errors.
+- Learn the concept behind every problem.
+- Improve code readability and efficiency.
+- Stay consistent and keep learning.
 
 ---
 
-## 🤝 Connect With Me
+## Repository Structure
+
+```text
+LeetCode-Solutions/
+│
+├── 0009-palindrome-number/
+├── 0263-ugly-number/
+├── 1523-count-odd-numbers-in-an-interval-range/
+├── 2235-add-two-integers/
+├── 2469-convert-the-temperature/
+├── 2652-sum-multiples/
+│
+├── stats.json
+└── README.md
+```
+
+New solutions are organized in their own problem folders, making the repository easy to navigate.
+
+---
+
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/shahranansari2008-rgb">
-<img src="https://img.shields.io/badge/GitHub-Shahran_Ansari-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://leetcode.com/shahranansari/">
-<img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://leetcode.com/u/shahranansari/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-<br/><br/>
-
-### 💫 Small Steps. Strong Logic. Big Goals.
-
-*Consistency beats perfection.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:4338ca,100:0f172a&height=100&section=footer" width="100%" />
+<div align="center">
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0263-ugly-number](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0263-ugly-number) |
-| [2235-add-two-integers](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2235-add-two-integers) |
-| [2469-convert-the-temperature](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
-<!---LeetCode Topics End-->
+### Keep Learning. Keep Solving. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" width="100%" />
+
+</div>
