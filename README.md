@@ -176,10 +176,12 @@ New solutions are organized in their own problem folders, making the repository 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
