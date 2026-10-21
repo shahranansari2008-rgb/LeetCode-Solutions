@@ -173,4 +173,16 @@ New solutions are organized in their own problem folders, making the repository 
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
