@@ -187,4 +187,16 @@ New solutions are organized in their own problem folders, making the repository 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
