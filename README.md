@@ -192,6 +192,7 @@ New solutions are organized in their own problem folders, making the repository 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
@@ -201,4 +202,5 @@ New solutions are organized in their own problem folders, making the repository 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/shahranansari2008-rgb/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
